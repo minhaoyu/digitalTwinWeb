@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "question"; /* Project id 3709601 */
+  src: url('iconfont.woff2?t=1665968287531') format('woff2'),
+       url('iconfont.woff?t=1665968287531') format('woff'),
+       url('iconfont.ttf?t=1665968287531') format('truetype');
+}
+
+.question {
+  font-family: "question" !important;
+  font-size: 30px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.httbangzhu:before {
+  content: "\e600";
+}
+
